@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Ben 👋
 
-I'm Ben!  
-I'm a mechanical engineer turned aspiring software engineer who loves building cool things and solving difficult problems.
+I'm a mechanical engineer turned aspiring software engineer who loves building cool things and solving difficult problems.  
+I'm a fanatic for diabolical logic puzzles, compelling video games, and experiencing the great outdoors.
 
 - 🔭 I’m currently working on ... recreating simple games (e.g. Hangman, Wordle) in VBA, building workplace productivity tools, and automating design work in CAD
 - 🌱 I’m currently learning ... introductions to full stack development, Javascript, and Typescript; advanced VBA
